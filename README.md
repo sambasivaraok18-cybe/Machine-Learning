@@ -52,9 +52,9 @@ The performance of these optimizers is compared using:
 
 
 requirements.txt -
-numpy
-pandas
-matplotlib
-seaborn
-tensorflow
-scikit-learn
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- tensorflow
+- scikit-learn
