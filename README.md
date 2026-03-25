@@ -48,3 +48,13 @@ The performance of these optimizers is compared using:
 - test accuracy
 - confusion matrix
 - prediction visualizations
+
+
+
+requirements.txt -
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+scikit-learn
